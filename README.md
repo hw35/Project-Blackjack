@@ -1,22 +1,17 @@
-# Simple Calculator
-* Affords integer addition, subtraction, multiplication, division
-* Each function coded from scratch without using built-in functions
-* Works just like a dollar store calculator
-
-### Preview
-![Calculator - screenshot](mars4_5/images/Preview.png)
+# Blackjack Game
 
 ### Software Requirement
-* MIPS Assembler and Run-time Simulator (aka MARS)
+* Java SE
 
 ### Installation
 
 1. Download the repository files from the download section or clone this project by typing in the bash the following command:
 
-       git clone https://github.com/hw35/Project-Calculator.git
-3. Run MARS on the command line and open `calculator.asm` file in MARS.
-4. Open **Tools** tab in MARS and click on **Simple Calculator (Register) V0.1**
-5. Run the program :)
+       git clone https://github.com/hw35/Project-Blackjack.git
+2. Initialize Blackjack.java on the command line
+3. Run the following input on the command line
+       
+       java Blackjack #rounds, #decks, #traces
 
 ### Contributing
 This project is done independently by me, but
