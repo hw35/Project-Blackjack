@@ -1,5 +1,5 @@
 # Blackjack Game
-* Computer plays for dealer and player in rounds of Blackjack
+* Computer plays for dealer and player in rounds of Blackjack under a set strategy
 * Numbers of rounds, decks used, and traces are set by user input
 
 ### Software Requirement
