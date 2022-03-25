@@ -3,7 +3,7 @@
 * Numbers of rounds, decks used, and traces are set by user input
 
 ### Preview
-![Blackjack - screenshot](BJ_ss.png)
+![Blackjack - screenshot](BlackJack_output.png)
 
 
 ### Software Requirement
