@@ -14,7 +14,7 @@
 3. Run the following input on the command line
        
        java Blackjack #rounds, #decks, #traces
-* where #rounds, #decks, #traces are integers
+> where #rounds, #decks, #traces are integers
 
 ### Contributing
 This project is done independently by me, but
