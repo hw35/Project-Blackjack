@@ -20,7 +20,7 @@
 
 ### Contributing
 This project is done independently by me, but...
-* If you want to contribute new ideas, your pull request is welcomed!
-* If you find any issue, feel free to add to the repository issue section.
+       If you want to contribute new ideas, your pull request is welcomed!
+       If you find any issue, feel free to add to the repository issue section.
 
 ## Thank You!
