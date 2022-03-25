@@ -1,4 +1,6 @@
 # Blackjack Game
+* Computer plays for dealer and player in rounds of Blackjack
+* Numbers of rounds, decks used, and traces are set by user input
 
 ### Software Requirement
 * Java SE
