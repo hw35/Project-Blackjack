@@ -11,10 +11,9 @@
 
        git clone https://github.com/hw35/Project-Blackjack.git
 2. Initialize Blackjack.java on the command line
-3. Run the following input on the command line
+3. Run the following input on the command line, where #rounds, #decks, #traces are integers
        
        java Blackjack #rounds, #decks, #traces
-> where #rounds, #decks, #traces are integers
 
 ### Contributing
 This project is done independently by me, but
